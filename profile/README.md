@@ -1,12 +1,6 @@
 ## Hi there 👋
+- Welcome to Wibudev Project
+- Tempat dimana Wibu-Wibu Berkreasi
+- Tempat Dimana Kewibuan Kalian Akan di Akui
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center"><img src="my-youth-romantic-comedy-is-wrong-as-i-expected-video-game-mages-inc-love-gosick-0428436b504ce62949f49b2c4097db74.png" width="220" height="220"></p>
